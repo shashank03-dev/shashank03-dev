@@ -10,7 +10,7 @@
   <a href="mailto:shashankgowda3182@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://linkedin.com/in/shashank3162">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/YOUR-TWITTER-USERNAME">
@@ -22,9 +22,9 @@
 
 ### 👨‍💻 About Me
 
-* 🔭 I’m currently working on **AI Voice Detection** and **Socio**.
-* 🌱 I’m currently learning more about **Machine Learning, Database Architecture, and App Development**.
-* 👯 I’m looking to collaborate on **open-source Python and Dart projects**.
+* 🔭 I’m currently working on builiding crazie things.
+* 🌱 I’m currently learning more about how to be an ai-genie .
+* 👯 I’m looking to collaborate on **open-source projects**.
 * ⚡ Fun fact: I believe in improving every single day—lap by lap!
 
 ---
