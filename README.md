@@ -28,12 +28,3 @@
 * ⚡ Fun fact: I believe in improving every single day—lap by lap!
 
 ---
-
-
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashank03-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Shashank's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank03-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Shashank's Top Languages" width="48%" />
-</p>
