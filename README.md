@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=Shashank&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI-first%20%20%7C%20%20Full-stack%20%20%7C%20%20Systems&descAlignY=58&descSize=20&descColor=8892b0" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+agentic+AI+systems;Databases+from+scratch+in+C;LangGraph+%E2%80%A2+FastAPI+%E2%80%A2+Next.js+15;Shipping+real+products+from+Bengaluru+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+agentic+AI+systems;Databases+from+scratch+in+C;LangGraph+%E2%80%A2+FastAPI+%E2%80%A2+Next.js+15;Shipping+real+products+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
 <a href="https://linkedin.com/in/shashank3162"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:shashankgowda3182@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -82,16 +82,6 @@ MFCC + spectral feature extraction, binary classifier distinguishing real vs AI-
 Full social platform built in Flutter/Dart — feeds, profiles, real-time updates.
 
 `Flutter` `Dart` `Firebase`
-
-</td>
-<td width="50%">
-
-### 🌐 Sugar Labs — www-v2
-**Open source contribution**
-
-Rebuilt the Sugar Labs website with React 19, TypeScript, and Vite. Real-world open source shipped.
-
-`React 19` `TypeScript` `Vite` `OSS`
 
 </td>
 </tr>
