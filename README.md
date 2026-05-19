@@ -126,17 +126,7 @@ Real-time, full-stack platform built to make live venues smarter — event intel
 <br/>
 </details>
 
-<details>
-<summary><b>💊 Zane</b> &nbsp;·&nbsp; AI-assisted drug molecule discovery</summary>
-<br/>
-
-Research project exploring ML-driven drug discovery — generating candidate molecules and running them through property prediction pipelines to evaluate viability before any lab involvement.
-
-`Python` · `ML` · `Cheminformatics`
-
-<br/>
-</details>
-
+<br>
 <details>
 <summary><b>📱 Socio</b> &nbsp;·&nbsp; Cross-platform social app in Flutter</summary>
 <br/>
