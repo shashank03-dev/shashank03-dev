@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Shashank, AI systems and low-level engineering</title>
+  <desc id="desc">A dark technical profile banner for Shashank showing focus areas: agent graphs, product surfaces, and storage internals.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111821"/>
+      <stop offset="0.58" stop-color="#0b1118"/>
+      <stop offset="1" stop-color="#10130d"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8fffd7"/>
+      <stop offset="0.45" stop-color="#f0b45b"/>
+      <stop offset="1" stop-color="#b8f7ff"/>
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="420" fill="#07090d"/>
+  <rect x="24" y="24" width="1232" height="372" rx="18" fill="url(#panel)" stroke="#26313a" stroke-width="2"/>
+
+  <path d="M820 24 L1256 24 L1256 396 L1010 396 C930 338 888 266 884 178 C881 116 858 66 820 24Z" fill="#13190f" opacity="0.9"/>
+  <path d="M826 54 C942 74 1027 124 1081 204 C1125 270 1176 312 1234 330" fill="none" stroke="#f0b45b" stroke-width="2" opacity="0.55"/>
+  <path d="M882 80 C986 108 1054 162 1088 242 C1112 298 1150 336 1202 356" fill="none" stroke="#8fffd7" stroke-width="2" opacity="0.5"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="72" y="86" fill="#8fffd7" font-size="16" letter-spacing="1.5">/home/shashank/workbench</text>
+    <text x="72" y="156" fill="#f4f7f2" font-family="Verdana, Geneva, sans-serif" font-size="72" font-weight="800" letter-spacing="2">SHASHANK</text>
+    <text x="76" y="197" fill="#b8c3c1" font-size="22">AI systems / full-stack products / storage internals</text>
+
+    <rect x="74" y="236" width="430" height="2" fill="url(#signal)"/>
+
+    <text x="76" y="280" fill="#f0b45b" font-size="17">currently</text>
+    <text x="190" y="280" fill="#e9eee8" font-size="17">agent workflows that route, retrieve, explain, and ship</text>
+
+    <text x="76" y="318" fill="#f0b45b" font-size="17">side lab</text>
+    <text x="190" y="318" fill="#e9eee8" font-size="17">relational database engine in C: B-tree, parser, page I/O</text>
+
+    <text x="76" y="356" fill="#f0b45b" font-size="17">base</text>
+    <text x="190" y="356" fill="#e9eee8" font-size="17">India, building for practical use cases and public systems</text>
+  </g>
+
+  <g transform="translate(835 86)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect x="0" y="0" width="350" height="242" rx="14" fill="#080c12" stroke="#2f3a43" stroke-width="2"/>
+    <text x="24" y="40" fill="#8fffd7" font-size="15" letter-spacing="1.2">SYSTEM MAP</text>
+    <g fill="none" stroke-width="2">
+      <path d="M58 91 H151 V137 H245" stroke="#8fffd7" opacity="0.78"/>
+      <path d="M58 173 H151 V137" stroke="#f0b45b" opacity="0.75"/>
+      <path d="M245 137 L291 137" stroke="#b8f7ff" opacity="0.7"/>
+    </g>
+    <g filter="url(#softGlow)">
+      <circle cx="58" cy="91" r="8" fill="#8fffd7"/>
+      <circle cx="58" cy="173" r="8" fill="#f0b45b"/>
+      <circle cx="151" cy="137" r="8" fill="#f4f7f2"/>
+      <circle cx="245" cy="137" r="8" fill="#8fffd7"/>
+      <circle cx="291" cy="137" r="8" fill="#b8f7ff"/>
+    </g>
+    <text x="78" y="96" fill="#e9eee8" font-size="14">LangGraph</text>
+    <text x="78" y="178" fill="#e9eee8" font-size="14">C storage</text>
+    <text x="170" y="142" fill="#e9eee8" font-size="14">FastAPI</text>
+    <text x="247" y="170" fill="#e9eee8" font-size="14">Next.js</text>
+    <text x="24" y="220" fill="#89979a" font-size="13">routing / retrieval / dashboards / page layout</text>
+  </g>
+</svg>
