@@ -1,192 +1,136 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-field.svg" alt="Shashank profile banner: AI systems, full-stack products, and storage internals" width="100%" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:090912,40:0a192f,60:0a192f,100:090912&height=200&section=header&text=Shashank&fontSize=76&fontColor=64ffda&animation=fadeIn&fontAlignY=50&desc=engineer%20%C2%B7%20builder%20%C2%B7%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=68&descSize=18&descColor=8892b0" />
+<p align="center">
+  <a href="https://linkedin.com/in/shashank3162">LinkedIn</a>
+  /
+  <a href="mailto:shashankgowda3182@gmail.com">Email</a>
+  /
+  <a href="https://govbot-fawn.vercel.app">GovBot live</a>
+  /
+  <a href="https://github.com/shashank03-dev/MotionCode">MotionCode repo</a>
+</p>
 
-<br/>
+## Builder Profile
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=64FFDA&center=true&vCenter=true&width=720&lines=AI+agents+%E2%80%94+LangGraph+%2F+FastAPI+%2F+multi-agent+orchestration;database+engine+hand-coded+in+C+%E2%80%94+B-trees%2C+no+libraries%2C+just+pointers;full-stack+from+Next.js+15+to+raw+WhatsApp+Cloud+API;building+for+India+%F0%9F%87%AE%F0%9F%87%B3+%E2%80%94+shipping+to+the+world)](https://git.io/typing-svg)
+I build AI systems that survive contact with real users: agent graphs, RAG pipelines, WhatsApp flows, FastAPI backends, and dashboards that make the system observable. I also like the lower layers, especially databases, storage engines, memory, parsers, and C.
 
-<br/>
-
-<a href="https://linkedin.com/in/shashank3162">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:shashankgowda3182@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://govbot-fawn.vercel.app">
-  <img src="https://img.shields.io/badge/GovBot-64ffda?style=for-the-badge&logoColor=black&label=live+%E2%86%97&labelColor=0d1117" />
-</a>
-&nbsp;
-<a href="https://motion-code-three.vercel.app">
-  <img src="https://img.shields.io/badge/MotionCode-64ffda?style=for-the-badge&logoColor=black&label=live+%E2%86%97&labelColor=0d1117" />
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=shashank03-dev&style=for-the-badge&color=64ffda&labelColor=0d1117&label=VISITORS" />
-
-</div>
-
----
-
-## `$ cat whoami.json`
-
-```json
-{
-  "name"         : "Shashank",
-  "location"     : "India 🇮🇳",
-  "identity"     : "AI-first engineer who likes being close to the metal",
-  "building_now" : "agentic systems that work for real people in the real world",
-  "side_mission" : "relational DB engine in pure C — B-tree, query parser, zero stdlib shortcuts",
-  "learning"     : ["NVIDIA deep learning curriculum", "multi-agent design patterns", "storage internals"],
-  "belief"       : "if it isn't deployed, it isn't real",
-  "open_to"      : ["collabs", "hard problems", "building things that matter"]
-}
+```txt
+location: India
+focus: agentic systems, full-stack AI products, storage internals
+now: LangGraph systems for practical workflows
+learning: NVIDIA deep learning, multi-agent design, database internals
+open_to: collaborations, product builds, difficult engineering problems
 ```
 
----
+## Lead Builds
 
-## 🛰️ Deployed Missions
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>GovBot</h3>
+      <p><b>WhatsApp-first AI for Indian government services.</b></p>
+      <p>Citizens ask in plain text. A LangGraph agent routes intent, retrieves from scraped government documents, and returns a usable answer. The system includes a Next.js operator dashboard for sessions and knowledge-base work.</p>
+      <p>
+        <a href="https://govbot-fawn.vercel.app">Live</a>
+        /
+        <a href="https://github.com/shashank03-dev/GovBot">Repository</a>
+      </p>
+      <p><code>LangGraph</code> <code>FastAPI</code> <code>ChromaDB</code> <code>Playwright</code> <code>Supabase</code> <code>Next.js 15</code> <code>WhatsApp Cloud API</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>MotionCode</h3>
+      <p><b>Video-to-code for interface motion.</b></p>
+      <p>Drop in a video or GIF of a UI animation. Gemini Vision reads timing, easing, transforms, and opacity changes, then produces implementation code for GSAP, Framer Motion, CSS keyframes, or React Spring.</p>
+      <p>
+        <a href="https://github.com/shashank03-dev/MotionCode">Repository</a>
+      </p>
+      <p><code>Next.js 14</code> <code>TypeScript</code> <code>Gemini Vision</code> <code>Tailwind CSS</code> <code>Vercel</code></p>
+    </td>
+  </tr>
+</table>
+
+## Systems Shelf
+
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">What it shows</th>
+    <th align="left">Stack</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/shashank03-dev/nano_database">nano_database</a></td>
+    <td>A relational database engine built in C with B-tree indexing, custom tokenizing and parsing, page-based disk I/O, and manual memory management.</td>
+    <td><code>C</code> <code>B-tree</code> <code>Parser</code> <code>Page I/O</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/shashank03-dev/business-ai-agent">business-ai-agent</a></td>
+    <td>AI business assistant with streaming chat, database-aware answers, health scoring, and a full observability stack.</td>
+    <td><code>LangGraph</code> <code>Flask</code> <code>PostgreSQL</code> <code>Next.js</code> <code>Docker</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/shashank03-dev/ai_voice_detection">ai_voice_detection</a></td>
+    <td>Classifies AI-generated speech against real audio using MFCCs, spectral centroid, zero-crossing rate, and supervised ML.</td>
+    <td><code>Python</code> <code>Librosa</code> <code>Scikit-learn</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/shashank03-dev/NexaSphere">NexaSphere</a></td>
+    <td>Community and event platform with auth, form flows, admin surfaces, activity logging, and a cyber-themed interface.</td>
+    <td><code>Next.js</code> <code>TypeScript</code> <code>Prisma</code> <code>PostgreSQL</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/shashank03-dev/socio">Socio</a></td>
+    <td>Cross-platform social app with feeds, profiles, follows, and real-time updates from one mobile codebase.</td>
+    <td><code>Flutter</code> <code>Dart</code> <code>Firebase</code></td>
+  </tr>
+</table>
+
+## Working Set
+
+<table>
+  <tr>
+    <th align="left">Area</th>
+    <th align="left">Tools I reach for</th>
+  </tr>
+  <tr>
+    <td>AI systems</td>
+    <td><code>Python</code> <code>LangGraph</code> <code>FastAPI</code> <code>ChromaDB</code> <code>Playwright</code> <code>OpenAI SDK</code> <code>Gemini API</code></td>
+  </tr>
+  <tr>
+    <td>Product surfaces</td>
+    <td><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Supabase</code> <code>PostgreSQL</code></td>
+  </tr>
+  <tr>
+    <td>Low-level work</td>
+    <td><code>C</code> <code>B-trees</code> <code>Storage Engines</code> <code>Linux</code> <code>Manual Memory Management</code></td>
+  </tr>
+  <tr>
+    <td>Mobile</td>
+    <td><code>Flutter</code> <code>Dart</code> <code>Firebase</code></td>
+  </tr>
+  <tr>
+    <td>Infra</td>
+    <td><code>Docker</code> <code>Vercel</code> <code>Railway</code> <code>Google Cloud</code> <code>Git</code></td>
+  </tr>
+</table>
+
+## Engineering Habits
+
+- I prefer shipped systems over polished mockups.
+- I like AI products with visible state, logs, fallback behavior, and clear data paths.
+- I use frontend work to explain what the backend is doing, not to hide it.
+- I study internals because abstractions become easier to trust when their machinery is understood.
 
 <details>
-<summary><b>🤖 GovBot</b> &nbsp;·&nbsp; WhatsApp-first AI for Indian government services &nbsp;&nbsp;<code>● LIVE</code></summary>
-<br/>
-
-**The problem:** India has 1.4B people and government portals that nobody can navigate.
-
-**What it does:** A citizen messages on WhatsApp in plain text. A LangGraph multi-agent system handles intent routing, fires a RAG pipeline over scraped government documents (Playwright + ChromaDB), and delivers a clear, actionable answer in seconds. There's a Next.js 15 operator dashboard for monitoring sessions and managing the knowledge base.
-
-| Layer | Technology |
-|---|---|
-| Agent orchestration | LangGraph |
-| API backend | FastAPI |
-| Vector store | ChromaDB |
-| Web scraping | Playwright |
-| Database | Supabase |
-| Frontend | Next.js 15 |
-| Messaging | Meta WhatsApp Cloud API |
-| Deployment | Railway + Vercel |
-
-🔗 **[govbot-fawn.vercel.app](https://govbot-fawn.vercel.app)**
-
-<br/>
+  <summary>GitHub activity</summary>
+  <br />
+  <p align="center">
+    <img height="168" src="https://github-readme-stats.vercel.app/api?username=shashank03-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=07090d&title_color=8fffd7&icon_color=f0b45b&text_color=b8c3c1&count_private=true&rank_icon=github" alt="Shashank GitHub stats" />
+    <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank03-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=07090d&title_color=8fffd7&text_color=b8c3c1&langs_count=7" alt="Shashank top languages" />
+  </p>
 </details>
 
-<details>
-<summary><b>🎬 MotionCode</b> &nbsp;·&nbsp; Drop a video or GIF, get production animation code &nbsp;&nbsp;<code>● LIVE</code></summary>
-<br/>
-
-Feed it any video or GIF of a UI animation. Gemini Vision analyzes the motion — easing curves, timing, transforms, opacity transitions — and outputs ready-to-paste code in the framework you choose: **GSAP**, **Framer Motion**, **CSS keyframes**, or **React Spring**. No more eyeballing animations by hand.
-
-| | |
-|---|---|
-| Framework | Next.js 14 + TypeScript |
-| AI model | Gemini Vision API |
-| Styling | Tailwind CSS |
-| Deployment | Vercel |
-
-🔗 **[motion-code-three.vercel.app](https://motion-code-three.vercel.app)**
-
-<br/>
-</details>
-
-<details>
-<summary><b>🗄️ nano_database</b> &nbsp;·&nbsp; A relational database engine built from nothing in C</summary>
-<br/>
-
-No SQLite. No libaries. No safety net. Just C and the will to understand.
-
-Hand-rolled B-tree indexing, a custom tokenizer and query parser, page-based disk I/O, and full manual memory management — written entirely in C to understand what actually happens when you type `SELECT *`. Most people read about databases. I built one.
-
-`C` · `B-tree` · `Custom Query Parser` · `Manual Memory Management` · `Page I/O`
-
-<br/>
-</details>
-
-<details>
-<summary><b>🔊 ai_voice_detection</b> &nbsp;·&nbsp; Deepfake audio vs real speech classifier</summary>
-<br/>
-
-ML pipeline that tells AI-synthesized speech from real human audio. Feature extraction uses MFCC coefficients + spectral centroid + zero-crossing rate. Trained a binary classifier on labeled audio datasets — works on raw audio files.
-
-`Python` · `Scikit-learn` · `Librosa` · `MFCC` · `Spectral Feature Extraction`
-
-<br/>
-</details>
-
-<details>
-<summary><b>🏟️ ArenaIQ Vibes</b> &nbsp;·&nbsp; Smart venue experience platform</summary>
-<br/>
-
-Real-time, full-stack platform built to make live venues smarter — event intelligence, crowd-aware UX, and a high-signal experience layer for operators and attendees alike.
-
-`TypeScript` · `Real-time` · `Full-stack`
-
-<br/>
-</details>
-
-<br>
-<details>
-<summary><b>📱 Socio</b> &nbsp;·&nbsp; Cross-platform social app in Flutter</summary>
-<br/>
-
-Full social platform — feeds, profiles, follows, real-time updates — built in Flutter + Dart for iOS and Android from a single codebase.
-
-`Flutter` · `Dart` · `Firebase`
-
-<br/>
-</details>
-
----
-
-## ⚙️ How I Build
-
-**When building AI systems**
-`Python` · `LangGraph` · `FastAPI` · `ChromaDB` · `Playwright` · `OpenAI SDK` · `Gemini API` · `Claude`
-
-**When building web products**
-`Next.js 15` · `React` · `TypeScript` · `Tailwind CSS` · `Supabase` · `PostgreSQL`
-
-**When going low-level**
-`C` · `B-trees` · `Storage Engines` · `Linux` · `Manual Memory Management`
-
-**When shipping mobile**
-`Flutter` · `Dart` · `Firebase`
-
-**Infra & tooling**
-`Docker` · `Vercel` · `Railway` · `Google Cloud` · `Git` · `Figma`
-
-<div align="center"><br/>
-<img src="https://skillicons.dev/icons?i=python,ts,nextjs,react,fastapi,c,dart,flutter,postgres,supabase,docker,linux,git,figma,vscode&theme=dark&perline=8" />
-</div>
-
----
-
-## 📡 Telemetry
-
-<div align="center">
-
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=shashank03-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=8892b0&count_private=true&rank_icon=github" />&nbsp;&nbsp;<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank03-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8892b0&langs_count=7" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=shashank03-dev&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=64ffda&ring=64ffda&fire=f59e0b&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&sideNums=ccd6f6&currStreakNum=ccd6f6" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashank03-dev&bg_color=0d1117&color=64ffda&line=64ffda&point=ccd6f6&area_color=0a192f&area=true&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-<sub><i>Built with intent. Shipped with purpose.</i></sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090912,50:0a192f,100:090912&height=110&section=footer" />
-
-</div>
+<p align="center">
+  <sub>Currently building practical agent systems, studying deep learning, and keeping one hand close to the storage layer.</sub>
+</p>
