@@ -2,7 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/shashank03-dev/shashank03-dev/main/assets/banner.jpg" alt="All you ever need is a passion to follow" width="100%" />
 
-<img src="https://raw.githubusercontent.com/shashank03-dev/shashank03-dev/main/assets/nameplate.png" alt="Shashank — AI agents, backends, systems close to the metal. Bengaluru, India." width="100%" />
 
 </div>
 
