@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="220" viewBox="0 0 1280 220" fill="none" role="img" aria-label="Shashank — AI agents, backends, systems close to the metal. Bengaluru, India.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#06080d"/>
+      <stop offset="0.5" stop-color="#0a0e16"/>
+      <stop offset="1" stop-color="#06080d"/>
+    </linearGradient>
+    <radialGradient id="teal" cx="0.18" cy="0.5" r="0.55">
+      <stop offset="0" stop-color="#1f7c8c" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#1f7c8c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="amber" cx="0.9" cy="0.55" r="0.5">
+      <stop offset="0" stop-color="#E6A93F" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#E6A93F" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="0" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b7c0f0" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#b7c0f0" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#b7c0f0" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch" result="n"/>
+      <feColorMatrix in="n" type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.06"/></feComponentTransfer>
+    </filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="3"/></filter>
+  </defs>
+
+  <rect width="1280" height="220" fill="url(#bg)"/>
+  <rect width="1280" height="220" fill="url(#teal)"/>
+  <rect width="1280" height="220" fill="url(#amber)"/>
+
+  <!-- cinematic light beam, echoing the profile photo -->
+  <rect x="858" y="0" width="2.5" height="220" fill="url(#beam)" filter="url(#soft)"/>
+  <rect x="858" y="0" width="1" height="220" fill="#dfe4ff" opacity="0.5"/>
+
+  <!-- letterbox bars -->
+  <rect x="0" y="0" width="1280" height="12" fill="#04060a"/>
+  <rect x="0" y="208" width="1280" height="12" fill="#04060a"/>
+
+  <!-- viewfinder corner brackets -->
+  <g stroke="#E6A93F" stroke-width="2" fill="none" opacity="0.85">
+    <path d="M40 34 h34 M40 34 v34"/>
+    <path d="M1240 34 h-34 M1240 34 v34"/>
+    <path d="M40 186 h34 M40 186 v-34"/>
+    <path d="M1240 186 h-34 M1240 186 v-34"/>
+  </g>
+
+  <!-- HUD detail, top right -->
+  <text x="1206" y="64" text-anchor="end" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, monospace" font-size="13" letter-spacing="2" fill="#6FB2C9" opacity="0.9">12.9716&#176;N / 77.5946&#176;E</text>
+  <text x="1206" y="84" text-anchor="end" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, monospace" font-size="12" letter-spacing="4" fill="#5b6675">BENGALURU &#183; IN</text>
+
+  <!-- name -->
+  <text x="74" y="118" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="6" fill="#E6A93F">SHASHANK</text>
+
+  <!-- gold hairline -->
+  <rect x="78" y="138" width="520" height="2" fill="#E6A93F" opacity="0.55"/>
+
+  <!-- role line -->
+  <text x="80" y="170" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="5" fill="#9aa7b6">AI AGENTS &#160;&#183;&#160; BACKENDS &#160;&#183;&#160; SYSTEMS CLOSE TO THE METAL</text>
+
+  <!-- grain overlay -->
+  <rect width="1280" height="220" filter="url(#grain)" opacity="0.5"/>
+</svg>
