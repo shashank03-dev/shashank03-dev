@@ -37,7 +37,6 @@ I'm Shashank, an engineer in Bengaluru. Most of what I build sits in two places:
 
 ```jsonc
 {
-  "based_in"    : "Bengaluru, India 🇮🇳",
   "i_build"     : "AI agents + the backends they run on",
   "shipped"     : ["GovBot (live)", "MotionCode (live)"],
   "for_fun"     : "a relational DB engine in C: B-tree index, query parser, page I/O",
